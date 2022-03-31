@@ -2,7 +2,7 @@
 
 ## I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
 
-### I'm learning:
+### I'm learning or using:
 <a href="https://www.python.org/">
     <img align="left" alt="Python" width="30" height="30" src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1">
 </a>
