@@ -5,22 +5,22 @@
 
 ### I'm learning or using:
 <a href="https://www.python.org/">
-    <img align="left" alt="Python" width="30" height="30" src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1">
+    <img align="left" alt="Python" width="30" height="30" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img align="left" alt="HTML" width="30" height="30" src="https://th.bing.com/th/id/OIP.qCW__3jFWBUxPjEbCFMIDgHaHa?pid=ImgDet&rs=1" />
+    <img align="left" alt="HTML" width="30" height="30" src="https://imagizer.imageshack.com/img923/3244/6hZ0Sz.png" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="left" alt="CSS" width="30" height="30" src="https://3wa.fr/wp-content/uploads/2020/04/logo-css.png" />
+    <img align="left" alt="CSS" width="30" height="30" src="https://imagizer.imageshack.com/img924/2600/pjpe4L.png" />
 </a>
 <a href="https://javascript.com/">
-    <img align="left" alt="JavaScript" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+    <img align="left" alt="JavaScript" width="30" height="30" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
 </a>
 <br />
 
 ### IDEs I use:
 <a href="https://code.visualstudio.com/">
-    <img align="left" alt="Python" width="30" height="30" src="https://th.bing.com/th/id/OIP.DYS4qncHeBeS1lp8QUCurAHaHa?pid=ImgDet&rs=1">
+    <img align="left" alt="Python" width="30" height="30" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png">
 </a>
 
 <br />
