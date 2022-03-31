@@ -17,6 +17,7 @@
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </a>
+<br />
 
 ### IDEs I use:
 <a href="https://code.visualstudio.com/">
