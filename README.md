@@ -3,7 +3,6 @@
 ## I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
 
 ### I'm learning:
-
 <br /> 
 
 <a href="https://www.python.org/">
