@@ -1,5 +1,5 @@
 # Hello!
-<img src="https://imageshack.com/i/pmtYNFhWj" width="1000" height ="200">
+<img src="https://imagizer.imageshack.com/img922/285/tYNFhW.jpg" width="1000" height ="200">
 
 ## I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
 
