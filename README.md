@@ -16,6 +16,7 @@
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="50" height="55" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
 </a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=gruvbox&showicons=true)]()
 <br />
 <br />
 
@@ -28,4 +29,4 @@
 <br />
 <br />
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=gruvbox&showicons=true)]()
+
