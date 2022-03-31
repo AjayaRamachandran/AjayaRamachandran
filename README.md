@@ -18,6 +18,11 @@
     <img align="left" alt="JavaScript" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </a>
 
+### IDEs I use:
+<a href="https://code.visualstudio.com/">
+    <img align="left" alt="Python" width="30" height="30" src="https://th.bing.com/th/id/OIP.DYS4qncHeBeS1lp8QUCurAHaHa?pid=ImgDet&rs=1">
+</a>
+
 <br />
 <br />
 
