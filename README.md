@@ -3,7 +3,8 @@
 
 ### I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
 
-I love coding, but I'm still learning
+I love coding, but I'm still learning!
+
 My goals for 2022:
 - Learn PyGame
 - Get an HTML website hosted
