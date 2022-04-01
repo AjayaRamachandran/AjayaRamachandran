@@ -10,6 +10,7 @@
 <a href="https://github.com/AjayaRamachandran/Profile">
     <img align="right" alt="Stats"
          src="https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true">
+<br />
 
 <a href="https://www.python.org/">
     <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
