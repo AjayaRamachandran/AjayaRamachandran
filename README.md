@@ -32,7 +32,7 @@
 </a>
 
 <br />
-<br />
-<br />
+
+------
 
 <!---[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true)]()>
