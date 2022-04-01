@@ -12,8 +12,6 @@
 
 ### I'm learning or using:
 
-<br />
-
 <a href="https://www.python.org/">
     <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
 </a>
