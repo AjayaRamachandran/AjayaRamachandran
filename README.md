@@ -16,10 +16,8 @@
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="50" height="55" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
 </a>
-
+----
 <br />
-<br />
-#---
 <br />
 
 ### IDEs I use:
