@@ -12,9 +12,6 @@
 
 ### I'm learning or using:
 
-<a href="https://github.com/AjayaRamachandran/Profile">
-    <img align="right" alt="Stats"
-         src="https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true">
 <br />
 
 <a href="https://www.python.org/">
