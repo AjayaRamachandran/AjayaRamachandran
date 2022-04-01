@@ -6,6 +6,11 @@
 ------
 
 ### I'm learning or using:
+
+<a href="https://github.com/AjayaRamachandran/Profile">
+    <img align="right" alt="Stats"
+         src="https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true">
+
 <a href="https://www.python.org/">
     <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
 </a>
@@ -18,10 +23,6 @@
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="50" height="55" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
 </a>
-
-<a href="https://github.com/AjayaRamachandran/Profile">
-    <img align="right" alt="Stats"
-         src="https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true">
 
 <br />
 <br />
