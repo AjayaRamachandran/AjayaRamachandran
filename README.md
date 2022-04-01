@@ -1,7 +1,7 @@
 # Hello!
 <img src="https://imagizer.imageshack.com/img924/3121/rq0tOj.jpg" width="1000" height ="200">
 
-## I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
+### I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
 
 ------
 
