@@ -1,7 +1,7 @@
 <!--# Hello!-->
 <img src="https://imagizer.imageshack.com/img922/6695/8cFx2e.jpg" width="1000" height ="125">
 
-### I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
+### Hi! I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
 
 I love coding, but I'm still learning!
 
