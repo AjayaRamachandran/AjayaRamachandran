@@ -60,7 +60,7 @@ My goals for 2022:
     <img align="left" alt="GIMP" width="50" height="55" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
 </a>    
 <a href="https://procreate.art/">
-    <img align="left" alt="Procreate" width="50" height="55" src="https://imagizer.imageshack.com/img923/7310/e3cThZ.png" />
+    <img align="left" alt="Procreate" width="50" height="55" src="https://imagizer.imageshack.com/img922/6227/3Yowrv.png" />
 </a>
     
 <br />
