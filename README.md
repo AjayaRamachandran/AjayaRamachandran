@@ -16,7 +16,7 @@ My goals for 2022:
     <img align="right" alt="Stats"
          src="https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true">
 
-##### I'm learning or using:
+#### I'm learning or using:
 
 <a href="https://www.python.org/">
     <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
@@ -34,7 +34,7 @@ My goals for 2022:
 <br />
 <br />
 
-##### IDEs I use:
+#### IDEs I use:
 <a href="https://code.visualstudio.com/">
     <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
 </a>
@@ -45,7 +45,7 @@ My goals for 2022:
 
 ------
     
-##### Applications/Tools I have experience in:
+#### Applications/Tools I have experience in:
 
 <a href="https://www.blender.org/">
     <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img922/8599/YzDU0H.png" />
