@@ -44,6 +44,8 @@ My goals for 2022:
 <br />
 
 ------
+    
+##### Applications/Tools I have experience in:
 
 <a href="https://www.blender.org/">
     <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img922/8599/YzDU0H.png" />
