@@ -52,7 +52,7 @@ My goals for 2022:
     <img align="left" alt="AfterEffects" width="50" height="55" src="https://imagizer.imageshack.com/img924/1776/CJVpcW.png" />
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/">
-    <img align="left" alt="DaVinciResolve" width="50" height="55" src="https://imagizer.imageshack.com/img924/2600/pjpe4L.png" />
+    <img align="left" alt="DaVinciResolve" width="50" height="55" src="https://imagizer.imageshack.com/img922/9044/reLSjM.png" />
 </a>
 <a href="https://www.gimp.org/">
     <img align="left" alt="GIMP" width="50" height="55" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
