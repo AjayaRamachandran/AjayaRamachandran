@@ -36,7 +36,7 @@ My goals for 2022:
 
 ##### IDEs I use:
 <a href="https://code.visualstudio.com/">
-    <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png">
+    <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
 </a>
 
 <br />
@@ -44,5 +44,21 @@ My goals for 2022:
 <br />
 
 ------
+
+<a href="https://www.blender.org/">
+    <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img922/8599/YzDU0H.png" />
+</a>
+<a href="https://www.adobe.com/products/aftereffects.html">
+    <img align="left" alt="AfterEffects" width="50" height="55" src="https://imagizer.imageshack.com/img924/1776/CJVpcW.png" />
+</a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/">
+    <img align="left" alt="DaVinciResolve" width="50" height="55" src="https://imagizer.imageshack.com/img924/2600/pjpe4L.png" />
+</a>
+<a href="https://www.gimp.org/">
+    <img align="left" alt="GIMP" width="50" height="55" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
+</a>    
+<a href="https://procreate.art/">
+    <img align="left" alt="Procreate" width="50" height="55" src="https://imagizer.imageshack.com/img923/7310/e3cThZ.png" />
+</a>    
 
 <!---[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajayaramachandran&count_private=true&theme=vue-dark&showicons=true)]()>
