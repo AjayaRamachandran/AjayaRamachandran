@@ -9,6 +9,9 @@ My goals for 2022:
 - Learn PyGame
 - Get an HTML website hosted
 
+Things I'm working on:
+- Schemedit, a Minecraft plugin
+
 ------
 
 
