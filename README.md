@@ -1,16 +1,16 @@
 <!--# Hello!-->
 <img src="https://imagizer.imageshack.com/img922/6695/8cFx2e.jpg" width="1000" height ="125">
 
-### Hi! I'm Ajaya Ramachandran, and I'm a Sophomore in High School.
+### Hi! I'm Ajaya Ramachandran, and I'm a Junior in High School.
 
 I love coding, but I'm still learning!
 
-My goals for 2022:
+My goals for 2023:
 - Learn PyGame
 - Get an HTML website hosted
 
 Things I'm working on:
-- Schemedit, a Minecraft plugin
+- Schemedit, a Minecraft plugin (complete, but still receiving updates)
 
 ------
 
