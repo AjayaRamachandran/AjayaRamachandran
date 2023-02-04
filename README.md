@@ -6,11 +6,11 @@
 I love coding, but I'm still learning!
 
 My goals for 2023:
-- Learn PyGame
 - Get an HTML website hosted
 
 Things I'm working on:
-- Schemedit, a Minecraft plugin (complete, but still receiving updates)
+- Learning PyGame
+- Upgrading Schemedit, my minecraft plugin, to use PyGame
 
 ------
 
