@@ -10,6 +10,7 @@ My goals for 2023:
 
 Things I'm working on:
 - Learning PyGame
+- Connect 4 Minimax Algorithm
 - Upgrading Schemedit, my minecraft plugin, to use PyGame
 
 ------
