@@ -7,10 +7,10 @@ I love coding, but I'm still learning!
 
 My goals for 2023:
 
-- Learning PyGame
-- Soft Body Simulation
-- Connect 4 Minimax Algorithm
-- Learning JavaScript
+- Learning PyGame 🎮
+- Soft Body Simulation 🧊
+- Connect 4 Minimax Algorithm 🟡
+- Learning JavaScript 💻
 
 Things I'm thinking about:
 - Making PGUI, a UI library for realtime environments
