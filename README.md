@@ -13,7 +13,7 @@ Things I'm working on:
 - Connect 4 Minimax Algorithm
 - Learning JavaScript
 
-Things I'm thinking about
+Things I'm thinking about:
 - Making PGUI, a UI library for realtime environments
 - Upgrading Schemedit, my minecraft plugin, to use PyGame
 
