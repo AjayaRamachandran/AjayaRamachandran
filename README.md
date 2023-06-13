@@ -6,10 +6,9 @@
 I love coding, but I'm still learning!
 
 My goals for 2023:
-- Get an HTML website hosted
 
-Things I'm working on:
 - Learning PyGame
+- Soft Body Simulation
 - Connect 4 Minimax Algorithm
 - Learning JavaScript
 
