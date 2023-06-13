@@ -11,6 +11,10 @@ My goals for 2023:
 Things I'm working on:
 - Learning PyGame
 - Connect 4 Minimax Algorithm
+- Learning JavaScript
+
+Things I'm thinking about
+- Making PGUI, a UI library for realtime environments
 - Upgrading Schemedit, my minecraft plugin, to use PyGame
 
 ------
