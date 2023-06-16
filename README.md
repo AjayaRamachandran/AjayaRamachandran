@@ -10,9 +10,10 @@ My goals for 2023:
 - Learning PyGame 🎮
 - Soft Body Simulation 🧊
 - Connect 4 Minimax Algorithm 🟡
-- Learning JavaScript 💻
+- Learning C++ 💻
 
 Things I'm thinking about:
+- Fighting procrastination to learn JavaScript
 - Making PGUI, a UI library for realtime environments
 - Upgrading Schemedit, my minecraft plugin, to use PyGame
 
