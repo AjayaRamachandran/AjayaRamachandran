@@ -38,6 +38,9 @@ Things I'm thinking about:
 <a href="https://javascript.com/">
     <img align="left" alt="JavaScript" width="50" height="55" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
 </a>
+<a href="https://isocpp.org/">
+    <img align="left" alt="CPP" width="50" height="55" src="https://imagizer.imageshack.com/img922/5638/DqeHWL.png" />
+</a>
 
 <br />
 <br />
@@ -46,7 +49,10 @@ Things I'm thinking about:
 <a href="https://code.visualstudio.com/">
     <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
 </a>
-
+<a href="https://www.vexrobotics.com/vexcode/pro-v5">
+    <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/6263/asTv3M.png" />
+</a>
+    
 <br />
 <br />
 <br />
