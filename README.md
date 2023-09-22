@@ -62,10 +62,16 @@ Things I'm thinking about:
 #### Applications/Tools I have experience in:
 
 <a href="https://www.blender.org/">
-    <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img922/8599/YzDU0H.png" />
+    <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img923/33/dzxH0l.png" />
+</a>
+<a href="https://www.autodesk.com/products/fusion-360/overview">
+    <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
 </a>
 <a href="https://www.adobe.com/products/aftereffects.html">
-    <img align="left" alt="AfterEffects" width="50" height="55" src="https://imagizer.imageshack.com/img924/1776/CJVpcW.png" />
+    <img align="left" alt="AfterEffects" width="50" height="55" src="https://imagizer.imageshack.com/img922/8963/KSofeR.png" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html">
+    <img align="left" alt="Photoshop" width="50" height="55" src="https://imagizer.imageshack.com/img923/1165/IehGgr.png" />
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/">
     <img align="left" alt="DaVinciResolve" width="50" height="55" src="https://imagizer.imageshack.com/img922/9044/reLSjM.png" />
@@ -75,6 +81,9 @@ Things I'm thinking about:
 </a>    
 <a href="https://procreate.art/">
     <img align="left" alt="Procreate" width="50" height="55" src="https://imagizer.imageshack.com/img922/6227/3Yowrv.png" />
+</a>
+<a href="https://www.figma.com/">
+    <img align="left" alt="Figma" width="50" height="55" src="https://imagizer.imageshack.com/img924/1872/c7tR3f.png" />
 </a>
     
 <br />
