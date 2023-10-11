@@ -23,7 +23,7 @@ Things I'm thinking about:
 <a href="https://github.com/AjayaRamachandran">
     <img align="right" alt="Stats"
          src="https://kasroudra-stats-card.onrender.com/user?user=AjayaRamachandran&theme=onedark">
-</a>
+
 #### I'm learning or using:
 
 <a href="https://www.python.org/">
