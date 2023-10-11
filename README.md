@@ -22,7 +22,7 @@ Things I'm thinking about:
 
 <a href="https://github.com/AjayaRamachandran">
     <img align="right" alt="Stats"
-         src="https://kasroudra-stats-card.onrender.com/user?user=AjayaRamachandran&theme=onedark">
+         src="https://github-readme-stats.vercel.app/api?username=AjayaRamachandran">
 
 #### I'm learning or using:
 
