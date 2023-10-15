@@ -7,9 +7,9 @@ I love coding, but I'm still learning!
 
 My goals for 2023:
 
-- Learning PyGame 🎮
+- ~~Learning PyGame~~ 🎮
 - Soft Body Simulation 🧊
-- Connect 4 Minimax Algorithm 🟡
+- ~~Connect 4 Minimax Algorithm~~ 🟡
 - Learning C++ 💻
 
 Things I'm thinking about:
