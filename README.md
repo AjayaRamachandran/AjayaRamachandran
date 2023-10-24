@@ -1,5 +1,5 @@
 <!--# Hello!-->
-<img src="https://www.dropbox.com/scl/fi/4hceferujziwdj8sh9fbp/nodes.png?rlkey=ni1vcr9orjlyd7k2xbr730e4d&dl=1" width="500" height="530">
+<img src="https://i.ibb.co/JrTT8sh/nodes.png" width="500" height="530">
 
 ### Hi! I'm Ajaya Ramachandran, and I'm a Senior in High School.
 
