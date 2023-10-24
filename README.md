@@ -1,6 +1,4 @@
 <!--# Hello!-->
-<img src="https://i.ibb.co/JrTT8sh/nodes.png" width="500" height="530">
-
 ### Hi! I'm Ajaya Ramachandran, and I'm a Senior in High School.
 
 I love coding, but I'm still learning!
