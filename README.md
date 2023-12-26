@@ -5,17 +5,16 @@
 
 I love coding, but I'm still learning!
 
-My goals for 2023:
+My goals for 2024:
 
-- ✓ Learning PyGame 🎮
-- ☐ Soft Body Simulation 🧊
-- ✓ Connect 4 Minimax Algorithm 🟡
 - ☐ Learning C++ 💻
+- ☐ PowerScore Algorithm 📈
+- ☐ CustomCraft 🧊
 
 Things I'm thinking about:
 - ☐ Fighting procrastination to learn JavaScript
-- ☐ Making PGUI, a UI library for realtime environments
-- ☐ Upgrading Schemedit, my minecraft plugin, to use PyGame
+- ☐ Creating a more complex frontend for PowerScore
+- ☐ Making a game with Pygame
 
 ------
 
