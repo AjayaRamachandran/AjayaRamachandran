@@ -5,16 +5,16 @@
 ###### I'm a big fan of coding, and I'm always looking for new things to learn!
 
 
-My plans for 2024:
+My Future Plans:
 
-- ☐ Publishing Powerscore Tracker Webapp 📊
-- ☐ Post-Focus in C++ 💻
-- ☐ NN-Assisted File Explorer 📁
+- Publishing Powerscore Tracker Webapp 📊
+- Post-Focus in C++ 💻
+- NN-Assisted File Explorer 📁
 
 Long-term Goals:
-- ☐ Become fluent in C++, as well as JS
-- ☐ Get an understanding of Neural Networks and LinAlg basics
-- ☐ Become acquainted with Swift (at least at a basic level)
+- Become fluent in C++, as well as JS
+- Get an understanding of Neural Networks and LinAlg basics
+- Become acquainted with Swift (at least at a basic level)
 
 ------
 
