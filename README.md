@@ -5,16 +5,16 @@
 
 I love coding, but I'm still learning!
 
-My goals for 2024:
+My plans for 2024:
 
-- ☐ Learning C++ 💻
-- ☐ PowerScore Algorithm 📈
-- ☐ CustomCraft 🧊
+- ☐ Publishing Powerscore Tracker Webapp 📊
+- ☐ Post-Focus in C++ 💻
+- ☐ NN-Assisted File Explorer 📁
 
-Things I'm thinking about:
-- ☐ Fighting procrastination to learn JavaScript
-- ☐ Creating a more complex frontend for PowerScore
-- ☐ Making a game with Pygame
+Long-term Goals:
+- ☐ Become fluent in C++, as well as JS
+- ☐ Get an understanding of Neural Networks and LinAlg basics
+- ☐ Become acquainted with Swift (at least at a basic level)
 
 ------
 
@@ -46,10 +46,10 @@ Things I'm thinking about:
 
 #### IDEs I use:
 <a href="https://code.visualstudio.com/">
-    <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
+    <img align="left" alt="VS Code" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
 </a>
 <a href="https://www.vexrobotics.com/vexcode/pro-v5">
-    <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img923/6263/asTv3M.png" />
+    <img align="left" alt="VEXcode V5 Pro" width="50" height="55" src="https://imagizer.imageshack.com/img923/6263/asTv3M.png" />
 </a>
     
 <br />
@@ -64,7 +64,7 @@ Things I'm thinking about:
     <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img923/33/dzxH0l.png" />
 </a>
 <a href="https://www.autodesk.com/products/fusion-360/overview">
-    <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
+    <img align="left" alt="Fusion" width="50" height="55" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
 </a>
 <a href="https://www.adobe.com/products/aftereffects.html">
     <img align="left" alt="AfterEffects" width="50" height="55" src="https://imagizer.imageshack.com/img922/8963/KSofeR.png" />
