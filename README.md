@@ -7,7 +7,6 @@
 
 My Future Plans:
 
-- Publishing Powerscore Tracker Webapp 📊
 - Post-Focus in C++ 💻
 - NN-Assisted File Explorer 📁
 
