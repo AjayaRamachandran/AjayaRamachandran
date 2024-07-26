@@ -7,7 +7,7 @@
 
 My Future Plans:
 
-- Post-Focus in C++ 💻
+- Post-Focus 💻
 - NN-Assisted File Explorer 📁
 
 Long-term Goals:
