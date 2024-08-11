@@ -1,8 +1,8 @@
 <!--# Hello!-->
 <img src="https://imagizer.imageshack.com/img922/6695/8cFx2e.jpg" width="1000" height ="125">
 
-### Hi! I'm Ajaya Ramachandran, and I'm an upcoming CS student at Northeastern University.
-###### I'm a big fan of coding, and I'm always looking for new things to learn!
+### Hi! I'm Ajaya Ramachandran, and I'm a CS student at Northeastern University.
+###### I'm always looking for new things to learn, and new projects to take on.
 
 
 My Future Plans:
