@@ -41,6 +41,9 @@ Long-term Goals:
 <a href="https://isocpp.org/">
     <img align="left" alt="CPP" width="50" height="55" src="https://imagizer.imageshack.com/img922/5638/DqeHWL.png" />
 </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img align="left" alt="Csharp" width="50" height="55" src="https://www.dropbox.com/scl/fi/ghus0p95p20r9pammy32g/cs.png?rlkey=poxe41h2wb6652pw0s41dugwp&st=64vgaag2&raw=1" />
+</a>
 
 <br />
 <br />
