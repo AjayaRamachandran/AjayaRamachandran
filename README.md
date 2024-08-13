@@ -21,7 +21,7 @@ Long-term Goals:
 
 
 <a href="https://github.com/AjayaRamachandran">
-    <img align="right" alt="Stats"
+    <img align="right" alt="Stats" width="40" height="40"
          src="https://github-readme-stats.vercel.app/api?username=AjayaRamachandran&theme=vue-dark&show_icons=true&rank_icon=github">
 
 #### I'm learning or using:
