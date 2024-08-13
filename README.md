@@ -27,22 +27,22 @@ Long-term Goals:
 #### I'm learning or using:
 
 <a href="https://www.python.org/">
-    <img align="left" alt="Python" width="45" height="49.5" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
+    <img align="left" alt="Python" width="40" height="44" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img align="left" alt="HTML" width="45" height="49.5" src="https://imagizer.imageshack.com/img923/3244/6hZ0Sz.png" />
+    <img align="left" alt="HTML" width="40" height="44" src="https://imagizer.imageshack.com/img923/3244/6hZ0Sz.png" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="left" alt="CSS" width="45" height="49.5" src="https://imagizer.imageshack.com/img924/2600/pjpe4L.png" />
+    <img align="left" alt="CSS" width="40" height="44" src="https://imagizer.imageshack.com/img924/2600/pjpe4L.png" />
 </a>
 <a href="https://javascript.com/">
-    <img align="left" alt="JavaScript" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
+    <img align="left" alt="JavaScript" width="40" height="44" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
 </a>
 <a href="https://isocpp.org/">
-    <img align="left" alt="CPP" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/5638/DqeHWL.png" />
+    <img align="left" alt="CPP" width="40" height="44" src="https://imagizer.imageshack.com/img922/5638/DqeHWL.png" />
 </a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img align="left" alt="Csharp" width="45" height="49.5" src="https://www.dropbox.com/scl/fi/ghus0p95p20r9pammy32g/cs.png?rlkey=poxe41h2wb6652pw0s41dugwp&st=64vgaag2&raw=1" />
+    <img align="left" alt="Csharp" width="40" height="44" src="https://www.dropbox.com/scl/fi/ghus0p95p20r9pammy32g/cs.png?rlkey=poxe41h2wb6652pw0s41dugwp&st=64vgaag2&raw=1" />
 </a>
 
 <br />
@@ -50,10 +50,10 @@ Long-term Goals:
 
 #### IDEs I use:
 <a href="https://code.visualstudio.com/">
-    <img align="left" alt="VS Code" width="45" height="49.5" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
+    <img align="left" alt="VS Code" width="40" height="44" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
 </a>
 <a href="https://www.vexrobotics.com/vexcode/pro-v5">
-    <img align="left" alt="VEXcode V5 Pro" width="45" height="49.5" src="https://imagizer.imageshack.com/img923/6263/asTv3M.png" />
+    <img align="left" alt="VEXcode V5 Pro" width="40" height="44" src="https://imagizer.imageshack.com/img923/6263/asTv3M.png" />
 </a>
     
 <br />
@@ -65,28 +65,28 @@ Long-term Goals:
 #### Applications/Tools I have experience in:
 
 <a href="https://www.blender.org/">
-    <img align="left" alt="Blender" width="45" height="49.5" src="https://imagizer.imageshack.com/img923/33/dzxH0l.png" />
+    <img align="left" alt="Blender" width="40" height="44" src="https://imagizer.imageshack.com/img923/33/dzxH0l.png" />
 </a>
 <a href="https://www.autodesk.com/products/fusion-360/overview">
-    <img align="left" alt="Fusion" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
+    <img align="left" alt="Fusion" width="40" height="44" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
 </a>
 <a href="https://www.adobe.com/products/aftereffects.html">
-    <img align="left" alt="AfterEffects" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/8963/KSofeR.png" />
+    <img align="left" alt="AfterEffects" width="40" height="44" src="https://imagizer.imageshack.com/img922/8963/KSofeR.png" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html">
-    <img align="left" alt="Photoshop" width="45" height="49.5" src="https://imagizer.imageshack.com/img923/1165/IehGgr.png" />
+    <img align="left" alt="Photoshop" width="40" height="44" src="https://imagizer.imageshack.com/img923/1165/IehGgr.png" />
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/">
-    <img align="left" alt="DaVinciResolve" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/9044/reLSjM.png" />
+    <img align="left" alt="DaVinciResolve" width="40" height="44" src="https://imagizer.imageshack.com/img922/9044/reLSjM.png" />
 </a>
 <a href="https://www.gimp.org/">
-    <img align="left" alt="GIMP" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
+    <img align="left" alt="GIMP" width="40" height="44" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
 </a>    
 <a href="https://procreate.art/">
-    <img align="left" alt="Procreate" width="45" height="49.5" src="https://imagizer.imageshack.com/img922/6227/3Yowrv.png" />
+    <img align="left" alt="Procreate" width="40" height="44" src="https://imagizer.imageshack.com/img922/6227/3Yowrv.png" />
 </a>
 <a href="https://www.figma.com/">
-    <img align="left" alt="Figma" width="45" height="49.5" src="https://imagizer.imageshack.com/img924/1872/c7tR3f.png" />
+    <img align="left" alt="Figma" width="40" height="44" src="https://imagizer.imageshack.com/img924/1872/c7tR3f.png" />
 </a>
     
 <br />
