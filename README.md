@@ -8,14 +8,13 @@
 My Future Plans:
 
 - Learn React
-- Post-Focus 💻
+- Bot Programming Tournament 💻
 - NN-Assisted File Explorer 📁
 
 Long-term Goals:
 - Explore .NET framework
 - Learn TypeScript
 - Get an understanding of Neural Networks and LinAlg basics
-- Become acquainted with Swift (at least at a basic level)
 
 ------
 
