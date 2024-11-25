@@ -7,14 +7,14 @@
 
 My Future Plans:
 
-- Learn React
+- Booster - My largest react project yet
 - Bot Programming Tournament 💻
 - NN-Assisted File Explorer 📁
 
 Long-term Goals:
-- Explore .NET framework
-- Learn TypeScript
-- Get an understanding of Neural Networks and LinAlg basics
+- Fluent in local frontend dev frameworks like Tauri and Electron
+- Learn Swift (at a basic level)
+- Understand Neural Networks at low-level; perhaps construct one without any frameworks to try and learn the fundamentals
 
 ------
 
