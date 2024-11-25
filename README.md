@@ -47,12 +47,18 @@ Long-term Goals:
 <br />
 <br />
 
-#### IDEs I use:
-<a href="https://code.visualstudio.com/">
-    <img align="left" alt="VS Code" width="50" height="55" src="https://imagizer.imageshack.com/img923/1651/K5FtE4.png" />
+#### Fluent in these frameworks:
+<a href="https://react.dev/">
+    <img align="left" alt="React" width="50" height="55" src="https://i.ibb.co/vc98XgL/reacticon.png" />
 </a>
-<a href="https://www.vexrobotics.com/vexcode/pro-v5">
-    <img align="left" alt="VEXcode V5 Pro" width="50" height="55" src="https://imagizer.imageshack.com/img923/6263/asTv3M.png" />
+<a href="https://flask.palletsprojects.com/en/stable/">
+    <img align="left" alt="Flask" width="50" height="55" src="https://i.ibb.co/5GCZczG/flaskicon.png" />
+</a>
+<a href="https://firebase.google.com/">
+    <img align="left" alt="Firebase" width="50" height="55" src="https://i.ibb.co/ZxnbVH9/firebaseicon.png" />
+</a>
+<a href="https://git-scm.com/">
+    <img align="left" alt="Git" width="50" height="55" src="https://i.ibb.co/w4DH3dS/giticon.png" />
 </a>
     
 <br />
