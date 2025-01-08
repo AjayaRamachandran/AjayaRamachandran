@@ -7,14 +7,14 @@
 
 My Future Plans:
 
-- Booster - My largest react project yet
+- Booster - a productivity tool 🗒️
 - Bot Programming Tournament 💻
-- NN-Assisted File Explorer 📁
+- Build simple 3D render engine from scratch
 
 Long-term Goals:
-- Fluent in local frontend dev frameworks like Tauri and Electron
-- Learn Swift (at a basic level)
-- Understand Neural Networks at low-level; perhaps construct one without any frameworks to try and learn the fundamentals
+- Fluent in local frontend dev frameworks such as Tauri and Electron
+- Understand Neural Networks at low-level
+- Become more fluent with Unity and C#
 
 ------
 
