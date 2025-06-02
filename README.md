@@ -7,14 +7,14 @@
 
 My Future Plans:
 
-- Booster - a productivity tool 🗒️
+- Creative Suite -- Symphony, Todolist, Stratus 🗒️
 - Bot Programming Tournament 💻
 - Build simple 3D render engine from scratch
 
 Long-term Goals:
-- Fluent in local frontend dev frameworks such as Tauri and Electron
-- Understand Neural Networks at low-level
-- Become more fluent with Unity and C#
+- Fluent in frontend frameworks: React/Vue -> Tauri/Electron
+- Low-level Neural Networks, deep knowledge in backpropagation, gradient descent, etc.
+- Become fluent with C++/SFML, C#/Unity, eventually OpenGL
 
 ------
 
