@@ -19,26 +19,27 @@ Long-term Goals:
 ------
 
 
-<a href="https://github.com/AjayaRamachandran">
+<!-- <a href="https://github.com/AjayaRamachandran">
     <img align="right" alt="Stats" width="400"
-         src="https://github-readme-stats.vercel.app/api?username=AjayaRamachandran&theme=vue-dark&show_icons=true&rank_icon=github">
+         src="https://github-readme-stats.vercel.app/api?username=AjayaRamachandran&theme=vue-dark&show_icons=true&rank_icon=github" />
+</a> -->
 
-#### I'm learning or using:
+#### Languages:
 
 <a href="https://www.python.org/">
-    <img align="left" alt="Python" width="50" height="55" src="https://imagizer.imageshack.com/img924/7539/2flk0K.png">
+    <img align="left" alt="Python" width="50" height="55" src="https://i.ibb.co/DfXmnG7D/pythonicon.png">
 </a>
 <a href="https://javascript.com/">
-    <img align="left" alt="JavaScript" width="50" height="55" src="https://imagizer.imageshack.com/img922/9379/9O7R9V.png" />
+    <img align="left" alt="JavaScript" width="50" height="55" src="https://i.ibb.co/S7sLBk5V/javascripticon.png" />
+</a>
+<a href="https://www.typescriptlang.org/">
+    <img align="left" alt="TypeScript" width="50" height="55" src="https://i.ibb.co/WN2qQ8vR/typescripticon.png" />
+</a>
+<a href="https://www.java.com/en/">
+    <img align="left" alt="Java" width="50" height="55" src="https://i.ibb.co/Y48tHLXz/javaicon.png" />
 </a>
 <a href="https://isocpp.org/">
-    <img align="left" alt="CPP" width="50" height="55" src="https://imagizer.imageshack.com/img922/5638/DqeHWL.png" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img align="left" alt="HTML" width="50" height="55" src="https://imagizer.imageshack.com/img923/3244/6hZ0Sz.png" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img align="left" alt="CSS" width="50" height="55" src="https://imagizer.imageshack.com/img924/2600/pjpe4L.png" />
+    <img align="left" alt="CPP" width="50" height="55" src="https://i.ibb.co/wNTdbsrq/cplusplusicon.png">
 </a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img align="left" alt="Csharp" width="50" height="55" src="https://www.dropbox.com/scl/fi/ghus0p95p20r9pammy32g/cs.png?rlkey=poxe41h2wb6652pw0s41dugwp&st=64vgaag2&raw=1" />
@@ -47,15 +48,22 @@ Long-term Goals:
 <br />
 <br />
 
-#### Fluent in these frameworks:
+#### Frameworks:
+
 <a href="https://react.dev/">
     <img align="left" alt="React" width="50" height="55" src="https://i.ibb.co/vc98XgL/reacticon.png" />
 </a>
+<a href="https://nodejs.org/en">
+    <img align="left" alt="Node" width="50" height="55" src="https://i.ibb.co/jZz6qz2S/nodeicon.png" />
+</a>
+<a href="https://www.postgresql.org/">
+    <img align="left" alt="Postgres" width="50" height="55" src="https://i.ibb.co/zh1TQ81s/postgresicon.png" />
+</a>
+<a href="https://nextjs.org/">
+    <img align="left" alt="NextJS" width="50" height="55" src="https://i.ibb.co/SDspHtBj/nextjsicon.png" />
+</a>
 <a href="https://flask.palletsprojects.com/en/stable/">
     <img align="left" alt="Flask" width="50" height="55" src="https://i.ibb.co/5GCZczG/flaskicon.png" />
-</a>
-<a href="https://firebase.google.com/">
-    <img align="left" alt="Firebase" width="50" height="55" src="https://i.ibb.co/ZxnbVH9/firebaseicon.png" />
 </a>
 <a href="https://git-scm.com/">
     <img align="left" alt="Git" width="50" height="55" src="https://i.ibb.co/w4DH3dS/giticon.png" />
@@ -66,14 +74,14 @@ Long-term Goals:
 <br />
 
 ------
-    
-#### Applications/Tools I have experience in:
+
+#### Applications/Tools:
 
 <a href="https://www.figma.com/">
     <img align="left" alt="Figma" width="50" height="55" src="https://imagizer.imageshack.com/img924/1872/c7tR3f.png" />
 </a>
 <a href="https://www.blender.org/">
-    <img align="left" alt="Blender" width="50" height="55" src="https://imagizer.imageshack.com/img923/33/dzxH0l.png" />
+    <img align="left" alt="Blender" width="50" height="55" src="https://i.ibb.co/N25J0CFG/blendericon.png" />
 </a>
 <a href="https://www.autodesk.com/products/fusion-360/overview">
     <img align="left" alt="Fusion" width="50" height="55" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
