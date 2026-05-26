@@ -27,22 +27,22 @@ Long-term Goals:
 #### Languages:
 
 <a href="https://www.python.org/">
-    <img align="left" alt="Python" width="50" height="55" src="https://i.ibb.co/DfXmnG7D/pythonicon.png">
+    <img align="left" alt="Python" width="50" src="https://i.ibb.co/DfXmnG7D/pythonicon.png">
 </a>
 <a href="https://javascript.com/">
-    <img align="left" alt="JavaScript" width="50" height="55" src="https://i.ibb.co/S7sLBk5V/javascripticon.png" />
+    <img align="left" alt="JavaScript" width="50" src="https://i.ibb.co/S7sLBk5V/javascripticon.png" />
 </a>
 <a href="https://www.typescriptlang.org/">
-    <img align="left" alt="TypeScript" width="50" height="55" src="https://i.ibb.co/WN2qQ8vR/typescripticon.png" />
+    <img align="left" alt="TypeScript" width="50" src="https://i.ibb.co/WN2qQ8vR/typescripticon.png" />
 </a>
 <a href="https://www.java.com/en/">
-    <img align="left" alt="Java" width="50" height="55" src="https://i.ibb.co/Y48tHLXz/javaicon.png" />
+    <img align="left" alt="Java" width="50" src="https://i.ibb.co/Y48tHLXz/javaicon.png" />
 </a>
 <a href="https://isocpp.org/">
-    <img align="left" alt="CPP" width="50" height="55" src="https://i.ibb.co/wNTdbsrq/cplusplusicon.png">
+    <img align="left" alt="CPP" width="50" src="https://i.ibb.co/wNTdbsrq/cplusplusicon.png">
 </a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-    <img align="left" alt="Csharp" width="50" height="55" src="https://www.dropbox.com/scl/fi/ghus0p95p20r9pammy32g/cs.png?rlkey=poxe41h2wb6652pw0s41dugwp&st=64vgaag2&raw=1" />
+    <img align="left" alt="Csharp" width="50" src="https://www.dropbox.com/scl/fi/ghus0p95p20r9pammy32g/cs.png?rlkey=poxe41h2wb6652pw0s41dugwp&st=64vgaag2&raw=1" />
 </a>
 
 <br />
@@ -51,22 +51,22 @@ Long-term Goals:
 #### Frameworks:
 
 <a href="https://react.dev/">
-    <img align="left" alt="React" width="50" height="55" src="https://i.ibb.co/vc98XgL/reacticon.png" />
+    <img align="left" alt="React" width="50" src="https://i.ibb.co/vc98XgL/reacticon.png" />
 </a>
 <a href="https://nodejs.org/en">
-    <img align="left" alt="Node" width="50" height="55" src="https://i.ibb.co/jZz6qz2S/nodeicon.png" />
+    <img align="left" alt="Node" width="50" src="https://i.ibb.co/jZz6qz2S/nodeicon.png" />
 </a>
 <a href="https://www.postgresql.org/">
-    <img align="left" alt="Postgres" width="50" height="55" src="https://i.ibb.co/zh1TQ81s/postgresicon.png" />
+    <img align="left" alt="Postgres" width="50" src="https://i.ibb.co/zh1TQ81s/postgresicon.png" />
 </a>
 <a href="https://nextjs.org/">
-    <img align="left" alt="NextJS" width="50" height="55" src="https://i.ibb.co/SDspHtBj/nextjsicon.png" />
+    <img align="left" alt="NextJS" width="50" src="https://i.ibb.co/SDspHtBj/nextjsicon.png" />
 </a>
 <a href="https://flask.palletsprojects.com/en/stable/">
-    <img align="left" alt="Flask" width="50" height="55" src="https://i.ibb.co/5GCZczG/flaskicon.png" />
+    <img align="left" alt="Flask" width="50" src="https://i.ibb.co/5GCZczG/flaskicon.png" />
 </a>
 <a href="https://git-scm.com/">
-    <img align="left" alt="Git" width="50" height="55" src="https://i.ibb.co/w4DH3dS/giticon.png" />
+    <img align="left" alt="Git" width="50" src="https://i.ibb.co/w4DH3dS/giticon.png" />
 </a>
     
 <br />
@@ -78,28 +78,28 @@ Long-term Goals:
 #### Applications/Tools:
 
 <a href="https://www.figma.com/">
-    <img align="left" alt="Figma" width="50" height="55" src="https://imagizer.imageshack.com/img924/1872/c7tR3f.png" />
+    <img align="left" alt="Figma" width="50" src="https://imagizer.imageshack.com/img924/1872/c7tR3f.png" />
 </a>
 <a href="https://www.blender.org/">
-    <img align="left" alt="Blender" width="50" height="55" src="https://i.ibb.co/N25J0CFG/blendericon.png" />
+    <img align="left" alt="Blender" width="50" src="https://i.ibb.co/N25J0CFG/blendericon.png" />
 </a>
 <a href="https://www.autodesk.com/products/fusion-360/overview">
-    <img align="left" alt="Fusion" width="50" height="55" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
+    <img align="left" alt="Fusion" width="50" src="https://imagizer.imageshack.com/img922/3936/vwbk4Y.png" />
 </a>
 <a href="https://www.adobe.com/products/aftereffects.html">
-    <img align="left" alt="AfterEffects" width="50" height="55" src="https://imagizer.imageshack.com/img922/8963/KSofeR.png" />
+    <img align="left" alt="AfterEffects" width="50" src="https://imagizer.imageshack.com/img922/8963/KSofeR.png" />
 </a>
 <a href="https://www.adobe.com/products/photoshop.html">
-    <img align="left" alt="Photoshop" width="50" height="55" src="https://imagizer.imageshack.com/img923/1165/IehGgr.png" />
+    <img align="left" alt="Photoshop" width="50" src="https://imagizer.imageshack.com/img923/1165/IehGgr.png" />
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/">
-    <img align="left" alt="DaVinciResolve" width="50" height="55" src="https://imagizer.imageshack.com/img922/9044/reLSjM.png" />
+    <img align="left" alt="DaVinciResolve" width="50" src="https://imagizer.imageshack.com/img922/9044/reLSjM.png" />
 </a>
 <a href="https://www.gimp.org/">
-    <img align="left" alt="GIMP" width="50" height="55" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
+    <img align="left" alt="GIMP" width="50" src="https://imagizer.imageshack.com/img922/1499/ADRBtf.png" />
 </a>    
 <a href="https://procreate.art/">
-    <img align="left" alt="Procreate" width="50" height="55" src="https://imagizer.imageshack.com/img922/6227/3Yowrv.png" />
+    <img align="left" alt="Procreate" width="50" src="https://imagizer.imageshack.com/img922/6227/3Yowrv.png" />
 </a>
     
 <br />
